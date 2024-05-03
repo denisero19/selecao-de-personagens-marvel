@@ -15,4 +15,4 @@ Um projeto de Seleção de Personagens da Marvel feito com animação contendo 2
 
 Você pode acessar o código fonte do projeto 
 
-<>
+<https://github.com/denisero19/selecao-de-personagens-marvel>
